@@ -1,0 +1,8 @@
+ANDA - Access to N-dimensional array, withot needing to know how many
+dimensions it has. Universal
+
+Function can access every element from a multi dimensional without
+needing to know how many dimensions it has.
+
+The only requirement is that every array has '\0', but can be solved
+with a initializer or another layer of abstraction.
